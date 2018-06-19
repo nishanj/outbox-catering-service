@@ -1,18 +1,9 @@
-img{
+.reponsive{
   height: 0%;
   width: 100%;
 }
-div {
-  background-color: red;
-}
-.jumbotron{
-  background-image: images/food-drink.jpg;
-}
-body{
-background-color: blue;
-}
-.reponsive{
-  height: 10%;
-  width: 10%;
-  float: right;
+h2 {
+  text-align: center;
+  color: darkblue;
+  background-color: yellow;
 }
