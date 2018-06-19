@@ -7,3 +7,18 @@ h2 {
   color: darkblue;
   background-color: yellow;
 }
+.menu{
+  text-align: center;
+  color: darkblue;
+  font-style: italic;
+}
+.kal{
+  text-align: justify;
+}
+.kl{
+  text-align: center;
+  font-style: oblique;
+  font-family: sans-serif;
+  font-weight: 200;
+
+}
